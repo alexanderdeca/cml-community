@@ -11,7 +11,7 @@ mgmt interface defaults to dhcp
 Once the image has booted, after you see the following msg on the console "Masterd started successfully", you can logon with
 the default credentials and change the credentials after first logon.
  
-        PA-HDF login: admin
+        PA-VM login: admin
         Password: 
         System initializing; please wait... (CTRL-C to bypass)
         Enter old password : 
